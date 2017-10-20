@@ -65,10 +65,10 @@
   <html>
       <head>
          <link rel ="stylesheet" href="/LAB/lecture13/style.css">
-         <link href="https://fonts.googleapis.com/css?family=Bungee+Inline" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 
       </head>
-      <body>
+      <body id="lType">
           <form>
                Device Name: <input type="text" name="device-name" id="dtype">
                
@@ -79,7 +79,7 @@
                      <?=getDeviceTypes()?>
                </select>
                
-               <input type="checkbox" name="available" id="dtype"> Available 
+               <input type="checkbox" name="available" > Available 
                
                <br>
                <input type="radio" name="order-by" value="price"> Price 
