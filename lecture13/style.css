@@ -1,0 +1,25 @@
+
+#dtype{
+    padding: 5px 10px 5.5px !important;
+    font-family: 'Righteous';
+    font-size: 21px !important;
+    background-color: black;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+    color: #57D6c7;
+     border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border: 1px solid black;
+    cursor: pointer;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+
+body{
+    background-image: url(/LAB/lecture13/CSUMBstore.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    
+}
