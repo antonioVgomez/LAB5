@@ -64,7 +64,7 @@
   
   <html>
       <head>
-         <link rel ="stylesheet" href="/LAB/lecture13/style.css">
+         <link rel ="stylesheet" href="lecture13/style.css">
          <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 
       </head>
